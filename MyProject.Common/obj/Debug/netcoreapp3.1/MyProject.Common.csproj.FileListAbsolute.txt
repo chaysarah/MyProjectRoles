@@ -1,0 +1,9 @@
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.deps.json
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.AssemblyReference.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfoInputs.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfo.cs
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.dll
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.pdb

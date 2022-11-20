@@ -1,0 +1,13 @@
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\מילר חיה שרה\.NET\.NET\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
